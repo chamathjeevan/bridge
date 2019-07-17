@@ -1,7 +1,7 @@
 import react from 'react';
 import '../Components/Regulator.css';
 
-function Regulatory() {
+function Regulatory() { 
     return (
         <div className = "row pl-5 pt-3">
             <div className = "col-11 form mt-2 mb-4">
