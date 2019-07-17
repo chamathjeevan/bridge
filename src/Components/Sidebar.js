@@ -28,6 +28,15 @@ function Dashboard() {
             <li className="pb-2">
                 <a href="#"> <span className="material"></span> Material</a>
             </li>
+
+            {
+                //add SuppliarCreationWEbForm
+            }
+            <li className = "pb-2">
+                <a href = "#1"><span className = "suppliercreation"></span>SupplierCreation</a>
+
+            </li>
+
         </ul>
     </nav>
         </div>

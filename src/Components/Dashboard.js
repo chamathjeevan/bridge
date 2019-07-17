@@ -4,6 +4,9 @@ import Header from './Header';
 import Material from './Material';
 import Sidebar from './Sidebar';
 
+import SupplierCreation from './SupplierCreation';
+import Regulatory from './Regulatory;'
+
 
 
 function Dashboard() {
@@ -19,6 +22,11 @@ function Dashboard() {
         <div className="col-lg-10 content-area">
            
             <Material></Material>   
+
+          <div className = "col-lg-10 content-area">
+          <SupplierCreation></SupplierCreation>
+          </div>
+            
         </div>
         </div>
     </div>

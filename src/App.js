@@ -5,6 +5,9 @@ import Dashboard from './Components/Dashboard';
 import Header from './Components/Header';
 import Material from './Components/Material';
 
+import SupplierCreation from './Components/SupplierCreation';
+
+
 
 function App() {
   return (
